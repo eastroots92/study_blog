@@ -162,7 +162,7 @@ src/styles
 
 ### 🍭 Tips (You can change...)
 
-- Profile image! (replace file in `/content/assets/profile.png`)
+- Profile image! (replace file in `/content/assets/profile.jpg`)
 - Favicon image! (replace file in `/content/assets/felog.png`)
 - Header gradient! (\$theme-gradient `/styles/variables.scss`)
 - Utterances repository! (replace repository address in `/gatsby-meta-config.js`)
